@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Online Exam Cheating Detection System</title>
 </head>
 <body style="font-family: Arial, sans-serif; background-color:#f9f9ff; color:#333; padding:20px;">
 
